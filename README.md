@@ -12,10 +12,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-dhruvit.d9688@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvit.d9688@gmail.com)](mailto:dhruvit.d9688@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://dhruvitdiyora.github.io/portfolio/)](https://dhruvitdiyora.github.io/portfolio/)
 
-<!-- [![Youtube Badge](https://img.shields.io/badge/-Kaiwalya%20Koparkar-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZow8pOHiyz26yl4Da-Mfzw)](https://www.youtube.com/channel/UCZow8pOHiyz26yl4Da-Mfzw) -->
-
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhruvitdiyora&label=Profile%20views&color=blueviolet&style=flat" alt="dhruvitdiyora" /> </p>
+
 - 🔭 I’m currently working at [Radixweb](https://radixweb.com/)
 
 - 🌱 I’m currently learning more about BlockChain.
@@ -55,11 +54,6 @@
 ![SQLServer](https://img.shields.io/badge/-Microsoftsqlserver-CC2927?style=flat-square&logo=Microsoftsqlserver&logoColor=white)
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 
-<!-- <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-<a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a> -->
-
 ### DevOps & Cloud Tools:
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -87,13 +81,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhruvitdiyora&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvitdiyora&theme=tokyonight" />
 </p>
-<p>
+<br/>
+<p align="center">
          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvitdiyora&hide=java&theme=radical" alt="dhruvitdiyora" />
 </p>
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dhruvitdiyora&theme=onedark)](https://github.com/dhruvitdiyora/github-profile-trophy) -->
-
 <br/>
-<br/>
-<br/>
-<hr>
