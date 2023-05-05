@@ -1,9 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Dhruvit Diyora
+<h1 align="center">Hi there, My name is Dhruvit Diyora
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-dhruvitdiyora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/dhruvitdiyora)](https://in.linkedin.com/in/dhruvitdiyora)
