@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working at [Radixweb](https://radixweb.com/)
 
-- 🌱 I’m currently learning more about BlockChain.
+- 🌱 I’m currently learning more about Web Development.
 
 - 👨‍💻 All about me is at [My Website](https://dhruvitdiyora.github.io/portfolio/)
 
